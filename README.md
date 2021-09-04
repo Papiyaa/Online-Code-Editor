@@ -1,3 +1,5 @@
+This is an online code editing web application to write and test HTML, CSS and JavaScript code with user code running in the test container with real time updates.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
